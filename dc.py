@@ -30,3 +30,4 @@ class MyClient(discord.Client):
 
 
 client = MyClient(intents=discord.Intents.default())
+client.run('kodunuzu buraya yazınız')
